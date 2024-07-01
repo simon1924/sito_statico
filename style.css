@@ -1,0 +1,35 @@
+body{
+    font-family: times-new-roman;
+    background-color: #F6B547;
+    background-image: url("./Elon.webp"), url("./spacex.png");
+    background-position: left top, right bottom -750px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 38% auto,20% auto;
+    padding: 15px;
+
+    
+}
+
+#title{
+    text-align: center;
+    font-size: 6em;
+    text-shadow: 2px 2px #FF0000;
+}
+
+#container-img{
+
+}
+
+#bibliografia{
+    font-family: Arial;
+    background-color: #D3904F;
+    box-shadow: 20px 20px 20px #98FB98;
+    padding: 25px;
+    width: 50%;
+    top: 25%;
+    left: 25%;
+    position: absolute;
+    border: solid black;
+    border-radius: 7px;
+}
+
